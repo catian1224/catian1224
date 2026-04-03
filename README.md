@@ -1,59 +1,25 @@
 <div align="center">
+<h1>catian1224</h1>
+
+<p>
+    <a href="https://catian.koryo-hs.site/">
+        <img src="https://img.shields.io/badge/Visit-Website-9E2600?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
+</p>
+
 <h2>Links</h2>
-<table>
-    <tr align="center">
-        <td>
-            <a href="https://instagram.com/catian1224">
-            <b>Instagram</b>
-            </a>
-        </td>
-        <td>
-            <a href="https://x.com/catian1224">
-            <b>X(Twitter)</b>
-            </a>
-        </td>
-        <td>
-            <a href="https://youtube.com/@catian1224">
-            <b>YouTube</b>
-            </a>
-        </td>
-        <td>
-            <a href="https://soundcloud.com/catian1224">
-            <b>SoundCloud</b>
-            </a>
-        </td>
-        <td>
-            <a href="https://discord.com/users/1104707119833419836">
-            <b>Discord</b>
-            </a>
-        </td>
-    </tr>
-    <tr align="center">
-        <td>
-            <a href="https://instagram.com/catian1224">
-            <img src="https://skillicons.dev/icons?i=instagram" />
-            </a>
-        </td>
-        <td>
-            <a href="https://x.com/catian1224">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=x" />
-            </a>
-        </td>
-        <td>
-            <a href="https://youtube.com/@catian1224">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" />
-            </a>
-        </td>
-        <td>
-            <a href="https://soundcloud.com/catian1224">
-            <img src="icon/soundcloud.webp" width="50" style="border-radius: 25%;"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://discord.com/users/1104707119833419836">
-            <img src="https://skillicons.dev/icons?i=discord" />
-        </a>
-        </td>
-    </tr>
-</table>
+<p>
+    <a href="https://instagram.com/catian1224">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://youtube.com/@catian1224">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://soundcloud.com/catian1224">
+        <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+    </a>
+    <a href="https://discord.com/users/1104707119833419836">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+</p>
 </div>
