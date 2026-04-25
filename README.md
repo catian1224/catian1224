@@ -1,16 +1,17 @@
 <div align="center">
-<h1>catian1224</h1>
-
-<p>
-    <a href="https://catian.koryo-hs.site/">
-        <img src="https://img.shields.io/badge/Visit-Website-9E2600?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-    </a>
-</p>
+<h1>@catian1224</h1>
 
 <h2>Links</h2>
 <p>
+    <a href="https://catian.me/">
+        <img src="https://img.shields.io/badge/Website-9E2600?style=for-the-badge" alt="Website" />
+    </a>
+    <br />
     <a href="https://instagram.com/catian1224">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://instagram.com/catian1224">
+        <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
     </a>
     <a href="https://youtube.com/@catian1224">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
