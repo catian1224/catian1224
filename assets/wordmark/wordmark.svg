@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#F0EEEE"/>
+  <text x="151" y="584" fill="#9E2600" font-family="Sacramento, cursive" font-size="371">catian</text>
+  <g fill="none" stroke="#9E2600" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M253 354 L284 306 L315 354 M698 354 L729 306 L760 354"/>
+    <path d="M67 497 L132 497 M67 527 L132 527 M882 497 L946 497 M882 527 L946 527"/>
+  </g>
+</svg>
